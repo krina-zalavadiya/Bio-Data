@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    TextView name_txt,surname,brithdate,mobileno,email,address,qualification,country,city,socialmedia,job,health;
+    TextView name_txt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
