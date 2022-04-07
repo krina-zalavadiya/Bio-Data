@@ -121,6 +121,7 @@
             android:textColor="@color/white"
             android:textSize="15dp"/>
 
+
     </LinearLayout>
 
 
@@ -142,6 +143,7 @@
             android:textSize="30dp" />
 
         <TextView
+            android:id="@+id/name_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -150,6 +152,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/surname_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -158,6 +161,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/brithdate_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -166,6 +170,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/mobileno_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -174,6 +179,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/email_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -182,6 +188,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/hobby_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -190,6 +197,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/address_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -198,6 +206,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/city_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -206,6 +215,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/country_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -214,6 +224,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/qualification_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -222,6 +233,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/gender_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -230,6 +242,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/socialmedia_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -238,6 +251,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/job_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -246,6 +260,7 @@
             android:textColor="@color/black"
             android:textSize="15dp"/>
         <TextView
+            android:id="@+id/health_txt"
             android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
